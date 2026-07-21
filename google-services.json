@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505856344856",
+    "project_id": "tabu-51b2b",
+    "storage_bucket": "tabu-51b2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505856344856:android:e86052ba3018130380146d",
+        "android_client_info": {
+          "package_name": "com.tABU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbN4q9jCsf2cEM4S-OYr9Nkwsf7jPWVfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

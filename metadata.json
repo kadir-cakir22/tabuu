@@ -1,0 +1,6 @@
+{
+  "name": "Tabu",
+  "description": "Gelişmiş yapay zekâ destekli kart üretimi, tek oyuncu, yerel ve çevrimiçi çok oyunculu modları olan modern Tabu oyunu. Android Studio (Kotlin + Jetpack Compose) kaynak kod dışa aktarıcısı içerir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
