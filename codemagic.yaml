@@ -10,9 +10,6 @@ workflows:
       - name: Install Dependencies
         script: |
           npm install
-      - name: Build Web Application
-        script: |
-          npm run build
       - name: Sync Capacitor Android Project
         script: |
           npx cap sync android
