@@ -10,9 +10,6 @@ workflows:
       - name: Install Dependencies
         script: |
           npm install
-      - name: Sync Capacitor Android Project
-        script: |
-          npx cap sync android
       - name: Build Android Debug APK
         script: |
           cd android
